@@ -26,7 +26,7 @@
     
 }
 .list .img{
-    padding-top: 14px;
+ padding-top: 14px;
 text-align: center;
 align-items: center;
 justify-content: center;
@@ -40,7 +40,16 @@ justify-content: center;
     padding: 2px;
     margin: 5px;
     color: white;
+
 }
+.list ul li{
+    list-style: none;
+    display: flex;
+}
+
+
+
+
 .list1 ul{
     padding-top: 15px;
     padding-bottom: 25px;
